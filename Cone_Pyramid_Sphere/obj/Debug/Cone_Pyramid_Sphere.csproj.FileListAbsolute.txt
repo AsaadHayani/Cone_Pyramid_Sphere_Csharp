@@ -1,0 +1,6 @@
+C:\Users\Asaad\Desktop\Cone_Pyramid_Sphere\Cone_Pyramid_Sphere\bin\Debug\Cone_Pyramid_Sphere.exe.config
+C:\Users\Asaad\Desktop\Cone_Pyramid_Sphere\Cone_Pyramid_Sphere\bin\Debug\Cone_Pyramid_Sphere.exe
+C:\Users\Asaad\Desktop\Cone_Pyramid_Sphere\Cone_Pyramid_Sphere\bin\Debug\Cone_Pyramid_Sphere.pdb
+C:\Users\Asaad\Desktop\Cone_Pyramid_Sphere\Cone_Pyramid_Sphere\obj\Debug\Cone_Pyramid_Sphere.csprojResolveAssemblyReference.cache
+C:\Users\Asaad\Desktop\Cone_Pyramid_Sphere\Cone_Pyramid_Sphere\obj\Debug\Cone_Pyramid_Sphere.exe
+C:\Users\Asaad\Desktop\Cone_Pyramid_Sphere\Cone_Pyramid_Sphere\obj\Debug\Cone_Pyramid_Sphere.pdb
